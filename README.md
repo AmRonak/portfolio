@@ -43,16 +43,11 @@ This repository contains the source code for a professional portfolio website fe
 
 - `npm run lint`
 
-## Notes on GSAP Trial Plugins
+## GSAP Plugins
 
-This project uses `gsap-trial` for some GSAP features during development.
+This project uses GSAP plugins from the standard `gsap` package (e.g., `ScrollSmoother`, `SplitText`).
 
-Depending on GSAP licensing for the specific Club/paid plugins you use, you may need to replace `gsap-trial` with the official licensed packages for production deployments.
-
-For the recommended installation approach for GSAP Club plugins, see:
-- https://gsap.com/docs/v3/Installation/
-
-If you plan to host the site publicly with Club-level features, follow the GSAP documentation and update to the licensed packages as required.
+For installation details, see: https://gsap.com/docs/v3/Installation/
 
 ## Assets
 
